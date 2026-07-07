@@ -8,9 +8,9 @@ main = ".svelte-kit/cloudflare/_worker.js"
 compatibility_date = "2026-07-07"
 pages_build_output_dir = ".svelte-kit/cloudflare"
 
-[assets]
-directory = ".svelte-kit/cloudflare"
-binding = "ASSETS"
+# [assets]
+# directory = ".svelte-kit/cloudflare"
+# binding = "ASSETS"
 
 # Automatically place your workloads in an optimal location to minimize latency.
 # If you are running back-end logic in a Pages Function, running it closer to your back-end infrastructure
